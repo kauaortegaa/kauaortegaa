@@ -11,7 +11,7 @@
 ## `> whoami`
 
 ```yaml
-user        : kauamarcatto
+user        : kauaortegaa
 name        : Kauã Bueno Marcatto Ortega
 degree      : Computer Engineering // Instituto Mauá de Tecnologia // 3rd year
 location    : Santo André, São Paulo
@@ -65,7 +65,7 @@ modules     : [ systems, APIs, functional programming ]
         <img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square"/>
       </p>
       <p align="center">
-        <a href="https://github.com/kauamarcatto/jose-valderrama">
+        <a href="https://github.com/kauaortegaa/jose-valderrama">
           <img src="https://img.shields.io/badge/view%20repo-%230a0a0a?style=for-the-badge&logo=github&logoColor=FFFF00&labelColor=0a0a0a"/>
         </a>
       </p>
@@ -86,16 +86,16 @@ modules     : [ systems, APIs, functional programming ]
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## `> system_stats --user kauamarcatto`
+## `> system_stats --user kauaortegaa`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauamarcatto&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=FFFF00&text_color=c0caf5&icon_color=1a9090&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamarcatto&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=FFFF00&text_color=c0caf5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauaortegaa&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=FFFF00&text_color=c0caf5&icon_color=1a9090&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaortegaa&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=FFFF00&text_color=c0caf5"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=kauamarcatto&hide_border=true&background=0a0a0a&ring=FFFF00&fire=cc2020&currStreakLabel=FFFF00&sideLabels=1a9090&dates=c0caf5" />
+<img src="https://streak-stats.demolab.com/?user=kauaortegaa&hide_border=true&background=0a0a0a&ring=FFFF00&fire=cc2020&currStreakLabel=FFFF00&sideLabels=1a9090&dates=c0caf5" />
 
 </div>
 
