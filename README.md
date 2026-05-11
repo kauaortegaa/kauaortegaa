@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d2a20,100:0a0a0a&height=200&section=header&text=KAUÃ%20MARCATTO&fontSize=52&fontColor=f5e642&animation=fadeIn&fontAlignY=45&stroke=f5e642&strokeWidth=1&desc=Computer%20Engineering%20//%20Instituto%20Mauá%20de%20Tecnologia&descSize=16&descAlignY=68&descFontColor=1a9090"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d2a20,100:0a0a0a&height=200&section=header&text=KAUÃ%20MARCATTO&fontSize=52&fontColor=FCEE09&animation=fadeIn&fontAlignY=45&stroke=FCEE09&strokeWidth=1&desc=Computer%20Engineering%20//%20Instituto%20Mauá%20de%20Tecnologia&descSize=16&descAlignY=68&descFontColor=1a9090"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=1A9090&center=true&vCenter=true&width=700&height=50&lines=%5B+BOOTING+SYSTEM...+%5D;%2F%2F+access+granted" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=FCEE09&center=true&vCenter=true&width=700&height=50&lines=%5B+BOOTING+SYSTEM...+%5D;%2F%2F+access+granted" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -61,12 +61,12 @@ modules     : [ systems, APIs, functional programming ]
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Clojure-%235881d8.svg?style=flat-square&logo=clojure&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST%20API-f5e642?style=flat-square&logoColor=black"/>
+        <img src="https://img.shields.io/badge/REST%20API-FCEE09?style=flat-square&logoColor=black"/>
         <img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square"/>
       </p>
       <p align="center">
         <a href="https://github.com/kauamarcatto/jose-valderrama">
-          <img src="https://img.shields.io/badge/view%20repo-%230a0a0a?style=for-the-badge&logo=github&logoColor=f5e642&labelColor=0a0a0a"/>
+          <img src="https://img.shields.io/badge/view%20repo-%230a0a0a?style=for-the-badge&logo=github&logoColor=FCEE09&labelColor=0a0a0a"/>
         </a>
       </p>
     </td>
@@ -78,7 +78,7 @@ modules     : [ systems, APIs, functional programming ]
       <p align="center">
         <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/status-in%20progress-f5e642?style=flat-square&logoColor=black"/>
+        <img src="https://img.shields.io/badge/status-in%20progress-FCEE09?style=flat-square&logoColor=black"/>
       </p>
     </td>
   </tr>
@@ -90,12 +90,12 @@ modules     : [ systems, APIs, functional programming ]
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauamarcatto&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=f5e642&text_color=c0caf5&icon_color=1a9090&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamarcatto&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=f5e642&text_color=c0caf5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauamarcatto&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=FCEE09&text_color=c0caf5&icon_color=1a9090&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamarcatto&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=FCEE09&text_color=c0caf5"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=kauamarcatto&hide_border=true&background=0a0a0a&ring=f5e642&fire=cc2020&currStreakLabel=f5e642&sideLabels=1a9090&dates=c0caf5" />
+<img src="https://streak-stats.demolab.com/?user=kauamarcatto&hide_border=true&background=0a0a0a&ring=FCEE09&fire=cc2020&currStreakLabel=FCEE09&sideLabels=1a9090&dates=c0caf5" />
 
 </div>
 
