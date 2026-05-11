@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=%5B+INICIALIZANDO+SISTEMA...+%5D;%2F%2F+Kauã+Marcatto+%7C+Eng.+Computação;Building+the+future%2C+one+commit+at+a+time;Clojure+%7C+Java+%7C+Python+%7C+C" alt="Typing SVG" />
+<!-- BANNER CAPSULE-RENDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0a2a2a,100:0d0d0d&height=200&section=header&text=KAUÃ%20MARCATTO&fontSize=52&fontColor=00ffff&animation=fadeIn&fontAlignY=45&stroke=00ffff&strokeWidth=1&desc=Engenharia%20da%20Computação%20//%20Instituto%20Mauá%20de%20Tecnologia&descSize=16&descAlignY=68&descFontColor=bb9af7"/>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00FFFF&center=true&vCenter=true&width=700&height=50&lines=%5B+INICIALIZANDO+SISTEMA...+%5D;Building+the+future%2C+one+commit+at+a+time;Clojure+%7C+Java+%7C+Python+%7C+C;%2F%2F+acesso+concedido" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -9,12 +13,12 @@
 ## `> whoami`
 
 ```yaml
-nome     : Kauã Bueno Marcatto Ortega
-curso    : Engenharia da Computação
-instituto: Instituto Mauá de Tecnologia
-semestre : 3º semestre (2026)
-localizacao: Santo André, São Paulo
-interesses: [ sistemas, APIs, lutheria ]
+usuario    : kauamarcatto
+nome       : Kauã Bueno Marcatto Ortega
+sistema    : Engenharia da Computação // Instituto Mauá de Tecnologia
+versao     : v3.0.2026
+node       : Santo André, São Paulo
+modulos    : [ sistemas, APIs, programação funcional ]
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -96,18 +100,5 @@ interesses: [ sistemas, APIs, lutheria ]
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=FF2D9B&center=true&vCenter=true&width=600&height=30&lines=//+access+granted+%E2%96%88;the+grid+is+yours+to+build" alt="footer" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauamarcatto)
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=kauamarcatto&color=00ffff&style=flat-square&label=ACESSOS)
-
-</div>
+<!-- FOOTER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=120&section=footer&text=the%20grid%20is%20yours%20to%20build&fontSize=22&fontColor=ff2d9b&animation=fadeIn&fontAlignY=55"/>
