@@ -99,4 +99,4 @@ modules     : [ systems, APIs, functional programming ]
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=FFFF00&height=80&section=footer&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=80&section=footer"/>
