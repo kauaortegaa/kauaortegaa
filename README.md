@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FCEE09,50:FFD700,100:FCEE09&height=200&section=header&text=KAUÃ%20MARCATTO&fontSize=52&fontColor=0d0d0d&animation=fadeIn&fontAlignY=45&stroke=0d0d0d&strokeWidth=1&desc=Computer%20Engineering%20//%20Instituto%20Mauá%20de%20Tecnologia&descSize=16&descAlignY=68&descFontColor=1a1a2e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FCEE09,50:FFD700,100:FCEE09&height=280&section=header&text=KAUÃ%20MARCATTO&fontSize=52&fontColor=0d0d0d&animation=fadeIn&fontAlignY=45&stroke=0d0d0d&strokeWidth=1&desc=Computer%20Engineering%20//%20Instituto%20Mauá%20de%20Tecnologia&descSize=16&descAlignY=68&descFontColor=1a1a2e"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=FCEE09&center=true&vCenter=true&width=700&height=50&lines=%5B+BOOTING+SYSTEM...+%5D;%2F%2F+access+granted" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=1A9090&center=true&vCenter=true&width=700&height=50&lines=%5B+BOOTING+SYSTEM...+%5D;%2F%2F+access+granted" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
