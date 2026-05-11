@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d2a20,100:0a0a0a&height=200&section=header&text=KAUÃ%20MARCATTO&fontSize=52&fontColor=f5e642&animation=fadeIn&fontAlignY=45&stroke=f5e642&strokeWidth=1&desc=Engenharia%20da%20Computação%20//%20Instituto%20Mauá%20de%20Tecnologia&descSize=16&descAlignY=68&descFontColor=1a9090"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=1A9090&center=true&vCenter=true&width=700&height=50&lines=%5B+INICIALIZANDO+SISTEMA...+%5D;%2F%2F+acesso+concedido" alt="Typing SVG" />
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
@@ -95,4 +97,4 @@ modulos     : [ sistemas, APIs, programação funcional ]
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a0d00,100:0a0a0a&height=120&section=footer&text=the%20grid%20is%20yours%20to%20build&fontSize=22&fontColor=cc2020&animation=fadeIn&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a0d00,100:0a0a0a&height=80&section=footer"/>
