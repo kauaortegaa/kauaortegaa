@@ -95,7 +95,7 @@ modules     : [ systems, APIs, functional programming ]
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=kauaortegaa&hide_border=true&background=0a0a0a&ring=FFFF00&fire=cc2020&currStreakLabel=FFFF00&sideLabels=1a9090&dates=c0caf5" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauaortegaa&bg_color=0a0a0a&color=00FFFF&line=FFFF00&point=1a9090&area=true&hide_border=true&area_color=1a9090" width="100%"/>
 
 </div>
 
