@@ -1,35 +1,34 @@
 <div align="center">
 
-<!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=%5B+INICIALIZANDO+SISTEMA...+%5D;%2F%2F+Kauã+Marcatto+%7C+Eng.+Computação;Building+the+future%2C+one+commit+at+a+time;Clojure+%7C+Java+%7C+Python+%7C+C" alt="Typing SVG" />
 
-<br/>
-
-<!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
-<br/>
+## 👾 Kauã Bueno Marcatto Ortega
 
-## `> whoami`
+---
 
-```yaml
-nome     : Kauã Bueno Marcatto Ortega
-curso    : Engenharia da Computação
-instituto: Instituto Mauá de Tecnologia
-semestre : 3º semestre (2026)
-status   : [ ONLINE ] construindo coisas interessantes
-intereses: [ sistemas, APIs, lutheria, cyberpunk ]
-```
+## 🚀 Sobre mim
 
-<br/>
+- 🎓 Estudante de **Engenharia da Computação** — Instituto Mauá de Tecnologia
+- 📍 Santo André, São Paulo
+- 💡 Apaixonado por sistemas, APIs e construir coisas do zero
+- 🎸 Projeto de extensão universitária com aplicação real no mundo da lutheria
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-<br/>
+## ⚡ O que eu trago
 
-## `> tech_stack --list`
+- Experiência construindo **projetos reais**, não só tutoriais
+- Raciocínio orientado a **resolução de problemas**
+- Vontade de aprender e explorar tecnologias novas
+- Atenção a detalhes — do código à interface
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -55,15 +54,9 @@ intereses: [ sistemas, APIs, lutheria, cyberpunk ]
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## `> ls projects/`
-
-<br/>
+## 📁 Projetos
 
 <table align="center" width="100%">
   <tr>
@@ -97,42 +90,30 @@ intereses: [ sistemas, APIs, lutheria, cyberpunk ]
   </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## `> system_stats --user kauamarcatto`
-
-<br/>
+## 📊 Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauamarcatto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=c0caf5&icon_color=bb9af7&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamarcatto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=c0caf5"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=kauamarcatto&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00ffff&fire=ff2d9b&currStreakLabel=00ffff&sideLabels=bb9af7&dates=c0caf5" />
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
+---
 
 <div align="center">
 
-<!-- FOOTER TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=FF2D9B&center=true&vCenter=true&width=600&height=30&lines=//+access+granted+%E2%96%88;the+grid+is+yours+to+build" alt="footer" />
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauamarcatto)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com)
 
 <br/>
 
