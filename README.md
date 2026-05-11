@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d2a20,100:0a0a0a&height=200&section=header&text=KAUÃ%20MARCATTO&fontSize=52&fontColor=f5e642&animation=fadeIn&fontAlignY=45&stroke=f5e642&strokeWidth=1&desc=Engenharia%20da%20Computação%20//%20Instituto%20Mauá%20de%20Tecnologia&descSize=16&descAlignY=68&descFontColor=1a9090"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d2a20,100:0a0a0a&height=200&section=header&text=KAUÃ%20MARCATTO&fontSize=52&fontColor=f5e642&animation=fadeIn&fontAlignY=45&stroke=f5e642&strokeWidth=1&desc=Computer%20Engineering%20//%20Instituto%20Mauá%20de%20Tecnologia&descSize=16&descAlignY=68&descFontColor=1a9090"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=1A9090&center=true&vCenter=true&width=700&height=50&lines=%5B+INICIALIZANDO+SISTEMA...+%5D;%2F%2F+acesso+concedido" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=1A9090&center=true&vCenter=true&width=700&height=50&lines=%5B+BOOTING+SYSTEM...+%5D;%2F%2F+access+granted" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -11,20 +11,22 @@
 ## `> whoami`
 
 ```yaml
-usuario     : kauamarcatto
-nome        : Kauã Bueno Marcatto Ortega
-curso       : Engenharia da Computação // Instituto Mauá de Tecnologia // 3º ano
-localização : Santo André, São Paulo
-modulos     : [ sistemas, APIs, programação funcional ]
+user        : kauamarcatto
+name        : Kauã Bueno Marcatto Ortega
+degree      : Computer Engineering // Instituto Mauá de Tecnologia // 3rd year
+location    : Santo André, São Paulo
+modules     : [ systems, APIs, functional programming ]
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## `> tech_stack --list`
 
+
+
 <div align="center">
 
-**Linguagens**
+**Languages**
 
 ![Clojure](https://img.shields.io/badge/Clojure-%235881d8.svg?style=for-the-badge&logo=clojure&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,7 +39,7 @@ modulos     : [ sistemas, APIs, programação funcional ]
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Ferramentas**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -53,9 +55,9 @@ modulos     : [ sistemas, APIs, programação funcional ]
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎸 Calculador de Trastes</h3>
+      <h3 align="center">🎸 Fret Calculator</h3>
       <p align="center">
-        API REST em <strong>Clojure</strong> que calcula a posição exata dos trastes de instrumentos de corda usando a fórmula da afinação temperada. Frontend em HTML/CSS/JS com identidade visual artesanal.
+        REST API in <strong>Clojure</strong> that calculates the exact position of each fret on stringed instruments using the equal temperament formula. Frontend in HTML/CSS/JS with an artisanal visual identity.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Clojure-%235881d8.svg?style=flat-square&logo=clojure&logoColor=white"/>
@@ -64,19 +66,19 @@ modulos     : [ sistemas, APIs, programação funcional ]
       </p>
       <p align="center">
         <a href="https://github.com/kauamarcatto/jose-valderrama">
-          <img src="https://img.shields.io/badge/ver%20repositório-%230a0a0a?style=for-the-badge&logo=github&logoColor=f5e642&labelColor=0a0a0a"/>
+          <img src="https://img.shields.io/badge/view%20repo-%230a0a0a?style=for-the-badge&logo=github&logoColor=f5e642&labelColor=0a0a0a"/>
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">☕ ECM251 — Projeto I</h3>
+      <h3 align="center">☕ ECM251 — Project I</h3>
       <p align="center">
-        Aplicativo desktop em <strong>Java</strong> com interface gráfica (Swing) e banco de dados <strong>MySQL</strong> via JDBC. Projeto acadêmico em grupo — Instituto Mauá de Tecnologia.
+        Desktop app in <strong>Java</strong> with a GUI (Swing) and <strong>MySQL</strong> database via JDBC. Group academic project — Instituto Mauá de Tecnologia.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/status-em%20andamento-f5e642?style=flat-square&logoColor=black"/>
+        <img src="https://img.shields.io/badge/status-in%20progress-f5e642?style=flat-square&logoColor=black"/>
       </p>
     </td>
   </tr>
