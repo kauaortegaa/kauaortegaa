@@ -6,29 +6,20 @@
 
 </div>
 
-## 👾 Kauã Bueno Marcatto Ortega
+## `> whoami`
 
----
+```yaml
+nome     : Kauã Bueno Marcatto Ortega
+curso    : Engenharia da Computação
+instituto: Instituto Mauá de Tecnologia
+semestre : 3º semestre (2026)
+localizacao: Santo André, São Paulo
+interesses: [ sistemas, APIs, lutheria ]
+```
 
-## 🚀 Sobre mim
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-- 🎓 Estudante de **Engenharia da Computação** — Instituto Mauá de Tecnologia
-- 📍 Santo André, São Paulo
-- 💡 Apaixonado por sistemas, APIs e construir coisas do zero
-- 🎸 Projeto de extensão universitária com aplicação real no mundo da lutheria
-
----
-
-## ⚡ O que eu trago
-
-- Experiência construindo **projetos reais**, não só tutoriais
-- Raciocínio orientado a **resolução de problemas**
-- Vontade de aprender e explorar tecnologias novas
-- Atenção a detalhes — do código à interface
-
----
-
-## 🛠️ Tech Stack
+## `> tech_stack --list`
 
 <div align="center">
 
@@ -54,9 +45,9 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 📁 Projetos
+## `> ls projects/`
 
 <table align="center" width="100%">
   <tr>
@@ -90,9 +81,9 @@
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 📊 Stats
+## `> system_stats --user kauamarcatto`
 
 <div align="center">
 
@@ -105,7 +96,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 
