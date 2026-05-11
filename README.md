@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=280&section=header&text=KAUÃ%20MARCATTO&fontSize=52&fontColor=0d0d0d&animation=fadeIn&fontAlignY=45&desc=Computer%20Engineering%20//%20Instituto%20Mauá%20de%20Tecnologia&descSize=16&descAlignY=65&descFontColor=1a1a2e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=FFFF00&height=280&section=header&text=KAUÃ%20MARCATTO&fontSize=52&fontColor=0d0d0d&animation=fadeIn&fontAlignY=42&desc=Computer%20Engineering%20//%20Instituto%20Mauá%20de%20Tecnologia&descSize=16&descAlignY=62&descFontColor=1a1a2e"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00FFFF&center=true&vCenter=true&width=700&height=50&lines=%5B+BOOTING+SYSTEM...+%5D;%2F%2F+access+granted" alt="Typing SVG" />
 
@@ -99,4 +99,4 @@ modules     : [ systems, APIs, functional programming ]
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=FFFF00&height=80&section=footer&reversal=true"/>
