@@ -60,7 +60,9 @@
 
 - Veterinary clinic management system built in Java
 - Centralizes control of tutors, animals, vets and appointment scheduling
-- Desktop application with modern GUI using Swing/AWT + MySQL via JDBC
+- Desktop application with modern JavaFX GUI — CSS styling and fluid layouts
+- Entire interface hand-coded in pure Java (no Scene Builder, no .fxml generation)
+- MySQL database via JDBC
 - Main project of ECM251 — Instituto Mauá de Tecnologia
 
 ###
