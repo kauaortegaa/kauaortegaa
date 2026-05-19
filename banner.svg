@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 200" width="860" height="200">
+  <!-- Fundo amarelo neon -->
+  <rect width="860" height="200" fill="#FFE500"/>
+
+  <!-- Onda preta na base -->
+  <path d="M0,145 C160,175 340,120 520,155 C680,185 780,140 860,155 L860,200 L0,200 Z" fill="#0d1117"/>
+
+  <!-- Nome -->
+  <text
+    x="430" y="100"
+    text-anchor="middle"
+    font-family="Arial Black, Arial, sans-serif"
+    font-size="58"
+    font-weight="900"
+    letter-spacing="4"
+    fill="#0d1117"
+  >KAUÃ MARCATTO</text>
+
+  <!-- Subtítulo -->
+  <text
+    x="430" y="133"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="15"
+    font-weight="400"
+    letter-spacing="1"
+    fill="#1a1a2e"
+  >Computer Engineering // Instituto Mauá de Tecnologia</text>
+</svg>

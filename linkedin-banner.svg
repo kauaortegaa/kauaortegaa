@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1584 396" width="1584" height="396">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFFF00"/>
+      <stop offset="100%" style="stop-color:#FFE000"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.08"/>
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:0.12"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1584" height="396" fill="url(#bg)"/>
+  <rect width="1584" height="396" fill="url(#fade)"/>
+
+  <!-- Name -->
+  <text
+    x="792" y="210"
+    text-anchor="middle"
+    font-family="Arial Black, Arial, sans-serif"
+    font-size="92"
+    font-weight="900"
+    letter-spacing="6"
+    fill="#0d0d0d"
+  >Kauã Ortega</text>
+
+  <!-- Subtitle -->
+  <text
+    x="792" y="266"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="22"
+    font-weight="400"
+    letter-spacing="3"
+    fill="#0a6666"
+  >Engenharia da Computação · Instituto Mauá de Tecnologia</text>
+
+</svg>

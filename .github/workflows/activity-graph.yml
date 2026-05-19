@@ -1,0 +1,27 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Ashutosh00710/github-readme-activity-graph@v1.1.0
+        with:
+          username: kauaortegaa
+          theme: github-compact
+          custom_title: "Contribution Graph"
+
+      - name: Push to activity-graph-output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: activity-graph-output
+          build_dir: .
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,62 +1,110 @@
-<div align="center">
+<h1 align="left">👾 Kauã Bueno Marcatto Ortega</h1>
 
-<h1>Hi, I'm Kauã Ortega! 👾</h1>
+###
 
-<h3>👋 Welcome to my GitHub!</h3>
+<br clear="both">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=00ff88&center=true&vCenter=true&width=520&height=28&lines=Computer+Engineering+%2F%2F+Instituto+Mau%C3%A1+de+Tecnologia" alt="Typing SVG" />
+<h3 align="center">Computer Engineering Student</h3>
 
-<br/><br/>
+###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00c96e?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/kaua-ortega)
-[![Email](https://img.shields.io/badge/Email-00c96e?style=for-the-badge&logo=microsoft-outlook&logoColor=000000)](mailto:kaua.bmortega@outlook.com)
+<h2 align="left">👨🏻‍💻 About me</h2>
 
-</div>
+###
 
----
+<p align="left">
+  🎓 Computer Engineering Student - Instituto Mauá de Tecnologia - 3rd year<br>
+  📍 Santo André, São Paulo<br>
+  🎯 Goals: Learning systems programming and building real-world APIs
+</p>
 
-### 🖥️ About Me
+###
 
-- 🎓 Computer Engineering student — 3rd semester at Instituto Mauá de Tecnologia
-- 📍 Santo André, São Paulo
-- ⚡ Focused on systems, APIs and functional programming
-- 🔧 Currently building: REST APIs in Clojure + Java desktop apps with JDBC
+<h2 align="left">🛠️ Tech Stack</h2>
 
----
-
-### 🛠️ Tech Stack
+###
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=java,clojure,python,c,js,html,css,git,github,vscode&theme=dark)](https://skillicons.dev)
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="40" alt="clojure logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
 
----
+###
 
-### 🚀 Featured Projects
+<h2 align="left">📊 GitHub Stats</h2>
 
-◆ **[Fret Calculator](https://github.com/kauaortegaa/jose-valderrama)**
-
-- REST API that calculates the exact position of each fret on stringed instruments
-- Uses the equal temperament formula: `distance = scale / 2^(n/12)`
-- Clojure + Ring + Compojure backend · HTML/CSS/JS frontend
-- University extension project — Instituto Mauá de Tecnologia
-
-◆ **ECM251 — Project I**
-
-- Desktop application in Java with manual GUI using Swing/AWT
-- MySQL database integration via JDBC
-- Features full CRUD with relational data model
-- Group academic project — Instituto Mauá de Tecnologia
-
----
-
-### 📊 GitHub Stats
+###
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kauaortegaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c0caf5&icon_color=9d4edd&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaortegaa&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c0caf5&langs_count=6"/>
-
+  <img src="https://raw.githubusercontent.com/kauaortegaa/kauaortegaa/activity-graph-output/activity-graph.svg" height="320" alt="activity-graph" />
+  <br>
+  <img src="https://raw.githubusercontent.com/kauaortegaa/kauaortegaa/languages-output/languages.svg" height="150" alt="languages graph" />
 </div>
+
+###
+
+<h2 align="left">🚀 Featured Projects</h2>
+
+###
+
+<h3 align="left">🎸 Fret Calculator</h3>
+
+###
+
+<p align="left">
+  REST API that calculates the exact position of each fret on stringed instruments<br>
+  Uses the equal temperament formula: distance = scale / 2^(n/12)<br>
+  Backend: Clojure | Frontend: HTML/CSS/JavaScript<br>
+  University extension project — Instituto Mauá de Tecnologia<br>
+  <a href="https://github.com/kauaortegaa/jose-valderrama">→ view repo</a>
+</p>
+
+###
+
+<h3 align="left">🖥️ ECM251 — Project I</h3>
+
+###
+
+<p align="left">
+  Desktop application in Java with manual GUI using Swing/AWT<br>
+  MySQL database integration via JDBC<br>
+  Features full CRUD with relational data model<br>
+  Group academic project — Instituto Mauá de Tecnologia
+</p>
+
+###
+
+<h2 align="left">📲 Contact</h2>
+
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/kaua-ortega">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:kanmarcatto@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauaortegaa/kauaortegaa/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauaortegaa/kauaortegaa/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kauaortegaa/kauaortegaa/pacman-output/pacman-contribution-graph.svg">
+</picture>
