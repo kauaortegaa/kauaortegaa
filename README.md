@@ -50,7 +50,7 @@
 
 - REST API that calculates the exact position of each fret on stringed instruments
 - Uses the equal temperament formula: `distance = scale / 2^(n/12)`
-- Backend: Clojure + Ring + Compojure | Frontend: HTML/CSS/JavaScript
+- Backend: Clojure + Ring + Compojure | Frontend: HTML + CSS + JavaScript
 - University extension project — Instituto Mauá de Tecnologia
 - [→ view repo](https://github.com/kauaortegaa/jose-valderrama)
 
