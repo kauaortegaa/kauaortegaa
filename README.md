@@ -1,6 +1,6 @@
 <h1>👾 Kauã Ortega</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=9d4edd&center=false&vCenter=true&width=520&height=28&lines=Computer+Engineering+%2F%2F+Instituto+Mau%C3%A1+de+Tecnologia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=00ff88&center=false&vCenter=true&width=520&height=28&lines=Computer+Engineering+%2F%2F+Instituto+Mau%C3%A1+de+Tecnologia" alt="Typing SVG" />
 
 ---
 
@@ -38,5 +38,5 @@
 
 ### 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaua--ortega-9d4edd?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaua-ortega)
-[![GitHub](https://img.shields.io/badge/GitHub-kauaortegaa-00ff88?style=flat-square&logo=github&logoColor=black)](https://github.com/kauaortegaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaua--ortega-00ff88?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/kaua-ortega)
+[![Email](https://img.shields.io/badge/Email-kaua.bmortega%40outlook.com-9d4edd?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:kaua.bmortega@outlook.com)
