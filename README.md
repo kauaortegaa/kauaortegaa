@@ -38,5 +38,5 @@
 
 ### 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaua--ortega-00ff88?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/kaua-ortega)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaua--ortega-9d4edd?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaua-ortega)
 [![Email](https://img.shields.io/badge/Email-kaua.bmortega%40outlook.com-9d4edd?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:kaua.bmortega@outlook.com)
