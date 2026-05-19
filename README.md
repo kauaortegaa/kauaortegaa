@@ -26,13 +26,18 @@
 ### 🚀 Featured Projects
 
 ◆ **[Fret Calculator](https://github.com/kauaortegaa/jose-valderrama)**
-- REST API in Clojure calculating fret positions using the equal temperament formula
-- Clojure · Ring · Compojure · HTML/CSS/JS frontend
-- University extension project
+
+- REST API that calculates the exact position of each fret on stringed instruments
+- Uses the equal temperament formula: `distance = scale / 2^(n/12)`
+- Clojure + Ring + Compojure backend · HTML/CSS/JS frontend
+- University extension project — Instituto Mauá de Tecnologia
 
 ◆ **ECM251 — Project I**
-- Desktop app in Java with Swing GUI and MySQL database via JDBC
-- Group academic project at Instituto Mauá de Tecnologia
+
+- Desktop application in Java with manual GUI using Swing/AWT
+- MySQL database integration via JDBC
+- Features full CRUD with relational data model
+- Group academic project — Instituto Mauá de Tecnologia
 
 ---
 
