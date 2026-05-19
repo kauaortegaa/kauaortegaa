@@ -40,7 +40,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff88?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/kaua-ortega)
-[![Email](https://img.shields.io/badge/Email-00ff88?style=for-the-badge&logo=microsoft-outlook&logoColor=000000)](mailto:kaua.bmortega@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00c96e?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/kaua-ortega)
+[![Email](https://img.shields.io/badge/Email-00c96e?style=for-the-badge&logo=microsoft-outlook&logoColor=000000)](mailto:kaua.bmortega@outlook.com)
 
 </div>
