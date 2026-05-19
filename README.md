@@ -49,7 +49,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kauaortegaa&theme=tokyo-night&hide_border=true" width="100%" alt="activity-graph" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaortegaa&layout=compact&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaortegaa&layout=donut&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&langs_count=6" height="200" alt="languages graph" />
 </div>
 
 ###
@@ -60,28 +60,20 @@
 
 <h3 align="left">🎸 Fret Calculator</h3>
 
-###
-
-<p align="left">
-  REST API that calculates the exact position of each fret on stringed instruments<br>
-  Uses the equal temperament formula: distance = scale / 2^(n/12)<br>
-  Backend: Clojure | Frontend: HTML/CSS/JavaScript<br>
-  University extension project — Instituto Mauá de Tecnologia<br>
-  <a href="https://github.com/kauaortegaa/jose-valderrama">→ view repo</a>
-</p>
+- REST API that calculates the exact position of each fret on stringed instruments
+- Uses the equal temperament formula: `distance = scale / 2^(n/12)`
+- Backend: Clojure + Ring + Compojure | Frontend: HTML/CSS/JavaScript
+- University extension project — Instituto Mauá de Tecnologia
+- [→ view repo](https://github.com/kauaortegaa/jose-valderrama)
 
 ###
 
 <h3 align="left">🖥️ ECM251 — Project I</h3>
 
-###
-
-<p align="left">
-  Desktop application in Java with manual GUI using Swing/AWT<br>
-  MySQL database integration via JDBC<br>
-  Features full CRUD with relational data model<br>
-  Group academic project — Instituto Mauá de Tecnologia
-</p>
+- Desktop application in Java with manual GUI using Swing/AWT
+- MySQL database integration via JDBC
+- Features full CRUD with relational data model
+- Group academic project — Instituto Mauá de Tecnologia
 
 ###
 
