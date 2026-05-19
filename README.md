@@ -2,12 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="center">Computer Engineering Student</h3>
-
-###
-
 <h2 align="left">👨🏻‍💻 About me</h2>
 
 ###
