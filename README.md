@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=280&section=header&text=KAUÃ%20ORTEGA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Computer%20Engineering%20//%20Instituto%20Mauá%20de%20Tecnologia&descSize=16&descAlignY=62&descFontColor=e0aaff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=c77dff&center=true&vCenter=true&width=700&height=50&lines=%5B+BOOTING+SYSTEM...+%5D;%2F%2F+access+granted" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00ff88&center=true&vCenter=true&width=700&height=50&lines=%5B+BOOTING+SYSTEM...+%5D;%2F%2F+access+granted" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -90,12 +90,12 @@ modules     : [ systems, APIs, functional programming ]
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauaortegaa&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=9d4edd&text_color=c0caf5&icon_color=c77dff&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauaortegaa&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=9d4edd&text_color=c0caf5&icon_color=00ff88&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaortegaa&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=9d4edd&text_color=c0caf5"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauaortegaa&bg_color=0a0a0a&color=c77dff&line=9d4edd&point=c77dff&area=true&hide_border=true&area_color=9d4edd" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauaortegaa&bg_color=0a0a0a&color=00ff88&line=9d4edd&point=00ff88&area=true&hide_border=true&area_color=9d4edd" width="100%"/>
 
 </div>
 
