@@ -6,7 +6,7 @@
 
 ### 🖥️ About Me
 
-- 🎓 Computer Engineering student — 3rd semester at Instituto Mauá de Tecnologia
+- 🎓 Computer Engineering student — 3rd year at Instituto Mauá de Tecnologia
 - 📍 Santo André, São Paulo
 - ⚡ Focused on systems, APIs and functional programming
 - 🔧 Currently building: REST APIs in Clojure + Java desktop apps with JDBC
