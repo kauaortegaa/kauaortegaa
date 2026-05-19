@@ -49,7 +49,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kauaortegaa&theme=tokyo-night&hide_border=true" width="100%" alt="activity-graph" />
   <br>
-  <img src="https://raw.githubusercontent.com/kauaortegaa/kauaortegaa/languages-output/languages.svg" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaortegaa&layout=compact&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&langs_count=6" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -101,10 +101,3 @@
   </a>
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauaortegaa/kauaortegaa/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauaortegaa/kauaortegaa/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kauaortegaa/kauaortegaa/pacman-output/pacman-contribution-graph.svg">
-</picture>
