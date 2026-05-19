@@ -1,5 +1,7 @@
 <h1 align="left">👾 Kauã Bueno Marcatto Ortega</h1>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=00ff88&center=false&vCenter=true&width=400&height=28&lines=Computer+Engineer+in+progress." alt="Typing SVG" />
+
 ###
 
 <h2 align="left">👨🏻‍💻 About me</h2>
