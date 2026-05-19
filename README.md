@@ -1,6 +1,6 @@
 <h1>👾 Kauã Ortega</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=9d4edd&center=false&vCenter=true&width=520&height=28&lines=Computer+Engineering+·+Instituto+Mauá+de+Tecnologia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=9d4edd&center=false&vCenter=true&width=520&height=28&lines=Computer+Engineering+%2F%2F+Instituto+Mau%C3%A1+de+Tecnologia" alt="Typing SVG" />
 
 ---
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,clojure,python,c,js,html,css,mysql,git,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,clojure,python,c,js,html,css,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
