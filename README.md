@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kauaortegaa&bg_color=0d1117&color=00ff88&line=9d4edd&point=00ff88&area=true&hide_border=true" width="100%" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kauaortegaa&theme=tokyo-night&hide_border=true" width="100%" alt="activity-graph" />
   <br>
   <img src="https://raw.githubusercontent.com/kauaortegaa/kauaortegaa/languages-output/languages.svg" height="150" alt="languages graph" />
 </div>
