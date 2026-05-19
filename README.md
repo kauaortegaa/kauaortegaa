@@ -56,12 +56,12 @@
 
 ###
 
-<h3 align="left">🖥️ ECM251 — Project I</h3>
+<h3 align="left">🐾 VetCore</h3>
 
-- Desktop application in Java with manual GUI using Swing/AWT
-- MySQL database integration via JDBC
-- Features full CRUD with relational data model
-- Group academic project — Instituto Mauá de Tecnologia
+- Veterinary clinic management system built in Java
+- Centralizes control of tutors, animals, vets and appointment scheduling
+- Desktop application with modern GUI using Swing/AWT + MySQL via JDBC
+- Main project of ECM251 — Instituto Mauá de Tecnologia
 
 ###
 
