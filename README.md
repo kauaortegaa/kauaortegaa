@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner-rede-neural.svg" width="100%" alt="Kauã Ortega, análise de dados, machine learning e IA" />
+<img src="./banner-rede-neural.svg?v=2" width="100%" alt="Kauã Ortega, análise de dados, machine learning e IA" />
 
 </div>
 
