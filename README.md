@@ -1,16 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Kauã Ortega, análise de dados, machine learning e IA" />
-
-<br><br>
-
-<img src="https://img.shields.io/static/v1?label=&message=%3E_%20Data%20%26%20AI&color=1a1b27&style=for-the-badge" height="30" alt="Data and AI" />
-
-<br>
-
-<a href="https://linkedin.com/in/kaua-ortega"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=1a1b27&style=for-the-badge" height="28" alt="LinkedIn" /></a>
-<a href="mailto:kanmarcatto@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Gmail&logo=gmail&logoColor=bb9af7&color=1a1b27&style=for-the-badge" height="28" alt="Gmail" /></a>
-<a href="https://instagram.com/_kauaortegaa"><img src="https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&logoColor=bb9af7&color=1a1b27&style=for-the-badge" height="28" alt="Instagram" /></a>
+<img src="./banner-rede-neural.svg" width="100%" alt="Kauã Ortega, análise de dados, machine learning e IA" />
 
 </div>
 
@@ -133,6 +123,12 @@ class KauaOrtega:
 </details>
 
 <div align="center">
+
+<a href="https://linkedin.com/in/kaua-ortega"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=1a1b27&style=for-the-badge" height="28" alt="LinkedIn" /></a>
+<a href="mailto:kanmarcatto@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Gmail&logo=gmail&logoColor=bb9af7&color=1a1b27&style=for-the-badge" height="28" alt="Gmail" /></a>
+<a href="https://instagram.com/_kauaortegaa"><img src="https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&logoColor=bb9af7&color=1a1b27&style=for-the-badge" height="28" alt="Instagram" /></a>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1a1530,50:3b2a73,100:7c5ad6" width="100%" alt="" />
 
