@@ -1,85 +1,58 @@
-<h1 align="left">👾 Kauã Bueno Marcatto Ortega</h1>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=00ff88&center=true&vCenter=true&width=600&height=40&lines=Computer+Engineer+in+progress.;Systems+%C2%B7+APIs;Building+things+that+actually+work." alt="Typing SVG" />
+<img src="./banner.svg" width="100%" alt="Night mountain landscape in purple" />
+
+<br><br>
+
+<img src="https://img.shields.io/static/v1?label=&message=%3E_%20Data%20%26%20AI%20%C2%B7%20Cybersecurity&color=1a1b27&style=for-the-badge" height="30" alt="Data and AI, Cybersecurity" />
+
+<br>
+
+<a href="https://linkedin.com/in/kaua-ortega"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&logo=linkedin&logoColor=bb9af7&color=1a1b27&style=for-the-badge" height="28" alt="LinkedIn" /></a>
+<a href="mailto:kanmarcatto@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Gmail&logo=gmail&logoColor=bb9af7&color=1a1b27&style=for-the-badge" height="28" alt="Gmail" /></a>
+<a href="https://instagram.com/_kauaortegaa"><img src="https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&logoColor=bb9af7&color=1a1b27&style=for-the-badge" height="28" alt="Instagram" /></a>
 
 </div>
 
-###
+<br>
 
-<h2 align="left">👨🏻‍💻 About me</h2>
+### About me
 
-###
+Computer Engineering student at Instituto Mauá de Tecnologia, 3rd year. I'm heading into data analysis and AI, with a strong interest in cybersecurity. Fraud prevention and anomaly detection are where the two meet, and that's the kind of problem I want to work on. Back-end and embedded systems are my technical base. I also spent over a year as a Production Consultant at Mauá Júnior, mapping processes for real clients.
 
-<p align="left">
-  🎓 Computer Engineering Student - Instituto Mauá de Tecnologia - 3rd year<br>
-  📍 Santo André, São Paulo<br>
-  🎯 Goals: Learning systems programming and building real-world APIs
+<br>
+
+### Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,clojure,c,js,html,css,mysql,aws,git,github,vscode,obsidian&theme=dark&perline=13" alt="Python, Java, Clojure, C, JavaScript, HTML, CSS, MySQL, AWS, Git, GitHub, VS Code, Obsidian" />
 </p>
 
-###
+<br>
 
-<h2 align="left">🛠️ Tech Stack</h2>
+### Projects
 
-###
+| Project | What it is | Stack |
+|---|---|---|
+| [Porsche Sales Dashboard](https://github.com/kauaortegaa/dashboard-vendas-porsche) | Interactive sales dashboard with filters, KPIs and 3 business questions. [Live demo](https://kauaortegaa.github.io/dashboard-vendas-porsche/) | HTML, CSS, JavaScript |
+| [Fret Calculator](https://github.com/kauaortegaa/jose-valderrama) | REST API that gives a luthier the exact position of each fret, using the equal temperament formula | Clojure, Ring, Compojure |
+| VetCore | Management system for vet clinics, with a JavaFX interface written by hand and a MySQL database | Java, JavaFX, MySQL |
 
-<div align="center">
+<br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,clojure,python,c,js,html,css,mysql,git,vscode&theme=dark)](https://skillicons.dev)
-
-</div>
-
-###
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
+### Statistics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kauaortegaa&theme=tokyo-night&hide_border=true" width="100%" alt="activity-graph" />
+
+<img src="https://streak-stats.demolab.com?user=kauaortegaa&background=1a1b27&border=3b2a73&stroke=3b2a73&ring=bb9af7&fire=bb9af7&currStreakNum=f1e9ff&sideNums=f1e9ff&currStreakLabel=bb9af7&sideLabels=9d7cd8&dates=565f89" height="170" alt="GitHub streak" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kauaortegaa&theme=tokyonight" height="170" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kauaortegaa&theme=tokyonight" height="170" alt="Repos per language" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1a1530,50:3b2a73,100:7c5ad6" width="100%" alt="" />
+
 </div>
-
-###
-
-<h2 align="left">🚀 Featured Projects</h2>
-
-###
-
-<h3 align="left">🎸 Fret Calculator</h3>
-
-- REST API that calculates the exact position of each fret on stringed instruments
-- Uses the equal temperament formula: `distance = scale / 2^(n/12)`
-- Backend: Clojure + Ring + Compojure | Frontend: HTML + CSS + JavaScript
-- University extension project — Instituto Mauá de Tecnologia
-- [→ view repo](https://github.com/kauaortegaa/jose-valderrama)
-
-###
-
-<h3 align="left">🐾 VetCore</h3>
-
-- Veterinary clinic management system built in Java
-- Centralizes control of tutors, animals, vets and appointment scheduling
-- Desktop application with modern JavaFX GUI — CSS styling and fluid layouts
-- Entire interface hand-coded in pure Java (no Scene Builder, no .fxml generation)
-- MySQL database via JDBC
-- Main project of ECM251 — Instituto Mauá de Tecnologia
-
-###
-
-<h2 align="left">🌎 Connect with me!</h2>
-
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/kaua-ortega">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=00c96e&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:kanmarcatto@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=00c96e&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://instagram.com/_kauaortegaa">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=00c96e&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-</div>
-
