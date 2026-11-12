@@ -22,6 +22,14 @@ Estudante de Engenharia de Computação no Instituto Mauá de Tecnologia, 3º an
 
 <br>
 
+### Experiência
+
+| Empresa | Cargo | Destaques |
+|---|---|---|
+| **Mauá Júnior**<br><sub>set/2024 a dez/2025</sub> | Consultor de Produção | Três projetos de consultoria para empresas reais (Center Cargo Manaus, Mesquita Consultoria e Marro), com mapeamento de processos, POPs e cronoanálise. Participei da negociação e da proposta até a entrega ao cliente. |
+
+<br>
+
 ### Tecnologias
 
 <p>
@@ -37,6 +45,14 @@ Estudante de Engenharia de Computação no Instituto Mauá de Tecnologia, 3º an
 | [Dashboard de Vendas Porsche](https://github.com/kauaortegaa/dashboard-vendas-porsche) | Dashboard interativa de vendas com filtros, KPIs e 3 perguntas de negócio. [Ver ao vivo](https://kauaortegaa.github.io/dashboard-vendas-porsche/) | HTML, CSS, JavaScript |
 | [Calculador de Trastes](https://github.com/kauaortegaa/jose-valderrama) | API REST que entrega a um luthier a posição exata de cada traste, pela fórmula da afinação temperada | Clojure, Ring, Compojure |
 | VetCore | Sistema de gestão para clínicas veterinárias, com interface JavaFX escrita à mão e banco MySQL | Java, JavaFX, MySQL |
+
+<br>
+
+### Certificações
+
+- **AWS Academy Cloud Foundations**, AWS Academy e IMT (out/2026)
+- **AI Reports com Excel, GPT Agents e Claude Code**, Santander Open Academy e DIO (out/2026)
+- **Princípios de Aprendizado de Máquina**, IMT (2025, 40h)
 
 <br>
 
@@ -64,6 +80,12 @@ Estudante de Engenharia de Computação no Instituto Mauá de Tecnologia, 3º an
 
 Computer Engineering student at Instituto Mauá de Tecnologia, 3rd year. My focus is data analysis and AI. I like taking messy data, finding what it says and turning it into something people can use to decide. Back-end and embedded systems are my technical base. I also spent over a year as a Production Consultant at Mauá Júnior, mapping processes for real clients.
 
+### Experience
+
+| Company | Role | Highlights |
+|---|---|---|
+| **Mauá Júnior**<br><sub>Sep 2024 to Dec 2025</sub> | Production Consultant | Three consulting projects for real companies (Center Cargo Manaus, Mesquita Consultoria and Marro), with process mapping, standard operating procedures and time studies. I took part from the negotiation and the proposal to the final delivery. |
+
 ### Projects
 
 | Project | Description | Stack |
@@ -71,6 +93,12 @@ Computer Engineering student at Instituto Mauá de Tecnologia, 3rd year. My focu
 | [Porsche Sales Dashboard](https://github.com/kauaortegaa/dashboard-vendas-porsche) | Interactive sales dashboard with filters, KPIs and 3 business questions. [Live demo](https://kauaortegaa.github.io/dashboard-vendas-porsche/) | HTML, CSS, JavaScript |
 | [Fret Calculator](https://github.com/kauaortegaa/jose-valderrama) | REST API that gives a luthier the exact position of each fret, using the equal temperament formula | Clojure, Ring, Compojure |
 | VetCore | Management system for vet clinics, with a JavaFX interface written by hand and a MySQL database | Java, JavaFX, MySQL |
+
+### Certifications
+
+- **AWS Academy Cloud Foundations**, AWS Academy and IMT (Oct 2026)
+- **AI Reports with Excel, GPT Agents and Claude Code**, Santander Open Academy and DIO (Oct 2026)
+- **Machine Learning Principles**, IMT (2025, 40h)
 
 </details>
 
