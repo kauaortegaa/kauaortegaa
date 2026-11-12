@@ -18,7 +18,22 @@
 
 ### Sobre mim
 
-Estudante de Engenharia de Computação no Instituto Mauá de Tecnologia, 3º ano. Meu foco é análise de dados e IA. Gosto de pegar dados bagunçados, entender o que eles dizem e transformar isso em algo que ajude alguém a decidir. Back-end e sistemas embarcados são minha base técnica. Também passei mais de um ano como Consultor de Produção na Mauá Júnior, mapeando processos para clientes reais.
+```python
+class KauaOrtega:
+    def __init__(self):
+        self.formacao = "Engenharia da Computação @ IMT (3º ano · dez/2028)"
+        self.experiencia = "Consultor de Produção @ Mauá Júnior (set/2024 a dez/2025)"
+        self.foco = [
+            "Análise de Dados (Python, SQL, visualização)",
+            "Machine Learning e IA Aplicada",
+            "Computação em Nuvem (AWS)",
+        ]
+        self.base_tecnica = ["Back-end (Java, Clojure)", "Sistemas embarcados (C)"]
+        self.idiomas = {"PT-BR": "Nativo", "EN": "Intermediário avançado"}
+
+    def missao(self) -> str:
+        return "Pegar dados bagunçados e transformar em algo que ajude alguém a decidir."
+```
 
 <br>
 
@@ -78,7 +93,22 @@ Estudante de Engenharia de Computação no Instituto Mauá de Tecnologia, 3º an
 
 ### About me
 
-Computer Engineering student at Instituto Mauá de Tecnologia, 3rd year. My focus is data analysis and AI. I like taking messy data, finding what it says and turning it into something people can use to decide. Back-end and embedded systems are my technical base. I also spent over a year as a Production Consultant at Mauá Júnior, mapping processes for real clients.
+```python
+class KauaOrtega:
+    def __init__(self):
+        self.education = "Computer Engineering @ IMT (3rd year · Dec 2028)"
+        self.experience = "Production Consultant @ Mauá Júnior (Sep 2024 to Dec 2025)"
+        self.focus = [
+            "Data Analysis (Python, SQL, visualization)",
+            "Machine Learning and Applied AI",
+            "Cloud Computing (AWS)",
+        ]
+        self.technical_base = ["Back-end (Java, Clojure)", "Embedded systems (C)"]
+        self.languages = {"PT-BR": "Native", "EN": "Upper intermediate"}
+
+    def mission(self) -> str:
+        return "Take messy data and turn it into something people can use to decide."
+```
 
 ### Experience
 
